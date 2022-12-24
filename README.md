@@ -8,12 +8,6 @@
 
 Multi-[Language Server][language-server] WebSocket proxy for your [ElixirNote][elixirnote] server.
 
-
-## Overview
-
-![overview](https://raw.githubusercontent.com/ElixirNote/elixirnote/main/docs/assets/elixir-ecosystem-v2.svg)
-
-
 ## Quick Started
 
 ```bash
