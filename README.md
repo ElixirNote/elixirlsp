@@ -1,5 +1,8 @@
+<div align="right">
+    <img src="https://raw.githubusercontent.com/ElixirNote/elixirserver/main/jupyter_server/static/logo/logo.png" width=60 alt="logo" />
+</div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ElixirNote/elixirserver/main/jupyter_server/static/logo/logo.png" width=120 alt="logo" />
+    <img src="https://raw.githubusercontent.com/ElixirNote/elixirlsp/main/assets/elixirlsp.svg" width=120 alt="logo" />
     <br />
     <small>go from data to knowledge</small>
 </div>
@@ -8,11 +11,18 @@
 
 Multi-[Language Server][language-server] WebSocket proxy for your [ElixirNote][elixirnote] server.
 
+
 ## Quick Started
 
 ```bash
 pip install elixir-lsp
 ```
+
+
+## Overview
+
+![overview](https://raw.githubusercontent.com/ElixirNote/elixirlsp/main/assets/overview.png)
+
 
 ## Language Servers
 
